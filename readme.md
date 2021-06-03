@@ -1,6 +1,7 @@
 # React Native Samsung Smart Tv Template
 
 This is a template made with react native for samsung smart tv's (Tizen).
+
 **NOTE** I recommend using the React repository instead of this one! 
 [https://github.com/IssamElNass/React-Samsung-Smart-Tv-Template](https://github.com/IssamElNass/React-Samsung-Smart-Tv-Template)
 
